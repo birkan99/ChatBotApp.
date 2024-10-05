@@ -1,0 +1,21 @@
+.chat-message {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 15px;
+  width: fit-content;
+  max-width: 70%;
+}
+
+.bot-message {
+  background-color: transparent;
+  border: 2px solid green;
+  color: green;
+  align-self: flex-start;
+}
+
+.user-message {
+  background-color: transparent;
+  border: 2px solid green;
+  color: green;
+  align-self: flex-end;
+}

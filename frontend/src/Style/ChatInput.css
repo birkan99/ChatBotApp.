@@ -1,0 +1,21 @@
+.chat-input-container {
+  display: flex;
+  gap: 10px;
+}
+
+input {
+  flex-grow: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid green;
+  background-color: transparent;
+  color: green;
+}
+
+button {
+  padding: 10px;
+  border: 2px solid green;
+  background-color: transparent;
+  color: green;
+  cursor: pointer;
+}
